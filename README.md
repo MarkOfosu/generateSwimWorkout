@@ -25,8 +25,8 @@ Ensure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/markofosu/swim-workout-generator.git
-cd swim-workout-generator
+git clone https://github.com/MarkOfosu/generateSwimWorkout.git
+cd generateSwimWorkout
 
 2. Set Up Virtual Environment (Optional but Recommended)
 It’s recommended to use a virtual environment to manage your project dependencies:
@@ -54,7 +54,7 @@ streamlit run main.py
 6. Access the Application
 Open your browser and go to:
 
-http://localhost:
+http://localhost:8080
 Enter your workout request in the input box, and click "Generate Workout" to see your customized swim workout.
 
 🧑‍💻 Project Structure
